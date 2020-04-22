@@ -1,3 +1,3 @@
 # ryanecat.github.io
 
-  rm -f *
+    rm -f *
